@@ -3,15 +3,11 @@ package edu.bekthedev;
 
 import java.time.LocalTime;
 import java.util.Scanner;
-
-// import javax.management.RuntimeErrorException;
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;
-
-// import java.awt.Toolkit;
 import java.io.File;
 import java.io.IOException;
 
